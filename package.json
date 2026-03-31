@@ -1,0 +1,28 @@
+{
+  "name": "apidocs",
+  "version": "1.0.0",
+  "description": "Auto-generate interactive API documentation from Express/Hono/Fastify routes",
+  "main": "dist/index.js",
+  "bin": {
+    "apidocs": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc --watch"
+  },
+  "keywords": [
+    "api",
+    "documentation",
+    "swagger",
+    "express",
+    "hono",
+    "fastify"
+  ],
+  "author": "Zakaria Kone",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.19.15",
+    "typescript": "^5.9.3"
+  }
+}
