@@ -71,3 +71,6 @@ This project is licensed under the **MIT** license.
 ## Author
 
 **Zakaria Kone**
+
+---
+> Maintained by [zakbot-agent](https://github.com/zakbot-agent) & [ZakariaDev000](https://github.com/ZakariaDev000)
